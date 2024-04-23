@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitfc-dev&label=Profile%20views&color=000000&style=flat" alt="kitfc-dev" /> </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kitfc-dev&show_icons=true&theme=tokyonight&locale=en" alt="kitfc-dev" /></p>
 
-- 🔭 I’m currently working on: [Sortynator](https://github.com/KITFC-dev/Sortynator)
+- 🔭 I’m currently working on: [Sortynator](https://github.com/KITFC-dev/Sortynator) and [Password Saver](https://github.com/KITFC-dev/Password-Saver)
 
 - 〽 I’m still learning **Python**
 
