@@ -21,5 +21,5 @@ Django · Next.js · Supabase · Pygame · Matplotlib · BeautifulSoup4 · Kivy 
 **Languages:**  
 Rust, C#
 
-**Frameworks & Libraries:**  
+**Frameworks & Tools:**  
 PyTorch, Unity
