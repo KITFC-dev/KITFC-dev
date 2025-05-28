@@ -19,7 +19,7 @@ Django · Next.js · Supabase · Pygame · Matplotlib · BeautifulSoup4 · Kivy 
 ### Currently Learning
 
 **Languages:**  
-Rust
+Rust, C#
 
 **Frameworks & Libraries:**  
-PyTorch
+PyTorch, Unity
