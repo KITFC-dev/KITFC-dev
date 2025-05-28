@@ -12,7 +12,7 @@ Feel free to check out my repositories!
 Python · JavaScript · TypeScript · HTML · CSS
 
 **Frameworks & Tools:**  
-Django · Next.js · Pygame · Matplotlib · BeautifulSoup4 · Kivy · PyQt6 · Pillow · Hugging Face
+Django · Next.js · Supabase · Pygame · Matplotlib · BeautifulSoup4 · Kivy · PyQt6 · Pillow · Hugging Face · Linux · Git · SQL
 
 ---
 
