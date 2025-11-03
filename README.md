@@ -1,4 +1,6 @@
-## Hi, welcome to my profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=1000&pause=5000&color=0000FF&width=435&lines=Welcome+to+my+profile!;Check+out+my+repositories!)](https://git.io/typing-svg)
+
+---
 
 I'm a self-taught Software Developer. I'm still a newbie, so I’m always learning something new!  
 I love collaborating with others and tackling new challenges every day.  
