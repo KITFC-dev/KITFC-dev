@@ -11,20 +11,17 @@ Feel free to check out my repositories!
 ### Skills
 
 **Languages:**  
-Python · JavaScript · TypeScript · HTML · CSS
+Python · Rust · JavaScript · TypeScript · HTML · CSS
 
 **Frameworks & Tools:**  
-Django · Next.js · Supabase · Pygame · Matplotlib · Selenium · BeautifulSoup4 · Kivy · PyQt6 · Pillow · Hugging Face · Linux · Git · SQL · LangChain · Docker · Tailwind
+Django · Tokio · Next.js · Supabase · Pygame · Matplotlib · Selenium · BeautifulSoup4 · Kivy · PyQt6 · Pillow · Hugging Face · Linux · Git · SQL · LangChain · Docker · Tailwind
 
 ---
 
 ### Currently Learning
 
 **Languages:**  
-Rust, Java
-
-**Frameworks & Tools:**  
-PyTorch, PaperMC API
+Java
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KITFC-dev/KITFC-dev/output/github-contribution-grid-snake-dark.svg">
