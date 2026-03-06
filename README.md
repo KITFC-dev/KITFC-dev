@@ -18,11 +18,6 @@ Django · Tokio · Next.js · Supabase · Pygame · Matplotlib · Selenium · Be
 
 ---
 
-### Currently Learning
-
-**Languages:**  
-Java
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KITFC-dev/KITFC-dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KITFC-dev/KITFC-dev/output/github-contribution-grid-snake.svg">
