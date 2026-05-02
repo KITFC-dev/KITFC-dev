@@ -1,7 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&letterSpacing=1px&duration=1000&pause=5000&color=89B4FA&width=800&height=80&lines=Welcome+to+my+profile!;Check+out+my+repositories!)](https://git.io/typing-svg)
 
-## Hello
-
 I'm a self-taught Software Developer that likes to create performant and beautiful applications.
 
 Feel free to check out my repositories and also visit my [website](https://10ku.net)!
