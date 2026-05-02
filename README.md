@@ -1,20 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=1000&pause=5000&color=0000FF&width=720&height=70&lines=Welcome+to+my+profile!;Check+out+my+repositories!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&letterSpacing=1px&duration=1000&pause=5000&color=89B4FA&width=800&height=80&lines=Welcome+to+my+profile!;Check+out+my+repositories!)](https://git.io/typing-svg)
+
+## Hello
+
+I'm a self-taught Software Developer that likes to create performant and beautiful applications.
+
+Feel free to check out my repositories and also visit my [website](https://10ku.net)!
 
 ---
 
-I'm a self-taught Software Developer. I'm still a newbie, so I’m always learning something new!  
-I love collaborating with others and tackling new challenges every day.  
-Feel free to check out my repositories!
+## Skills
 
----
-
-### Skills
-
-**Languages:**  
-Python · Rust · JavaScript · TypeScript · HTML · CSS
-
-**Frameworks & Tools:**  
-Django · Tokio · Next.js · Supabase · Pygame · Matplotlib · Selenium · BeautifulSoup4 · Kivy · PyQt6 · Pillow · Hugging Face · Linux · Git · SQL · LangChain · Docker · Tailwind
+<table>
+  <tr>
+    <td align="left" width="120px"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,rust,ts" /></td>
+  </tr>
+  <tr>
+    <td align="left" width="120px"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs" /></td>
+  </tr>
+  <tr>
+    <td align="left" width="120px"><b>Libraries</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwindcss,sqlite,supabase,selenium" /></td>
+  </tr>
+  <tr>
+    <td align="left" width="120px"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,bash,docker,arch" /></td>
+  </tr>
+</table>
 
 ---
 
